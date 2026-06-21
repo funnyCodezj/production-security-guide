@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
 [![Last Updated](https://img.shields.io/badge/last%20updated-2026--06--21-lightgrey)](./guide.md)
 
-一套与具体项目无关的 Web/API 项目生产安全操作基线，覆盖从上线前检查到持续运营的全生命周期纵深防御体系。
+本指南是一套Web/API 项目生产安全操作基线，覆盖从上线前检查到持续运营的全生命周期纵深防御体系。
 
 ---
 
